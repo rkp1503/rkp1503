@@ -24,28 +24,28 @@
 
 ### Programming languages
 - Python
-- Matlab
-- Java
+- MATLAB
 - Mathematica
+- Java
 - C
 
 ### Libraries
 - Numpy
+- Scipy
 - Sympy
 - Matplotlib
-- Scipy
 
- ### Software & Tools
+ ### Software and Tools
 - GitHub
-- LaTeX
-- Microsoft Office
 - JetBrains
+- LaTeX
+- Microsoft Office / Google Drive
 
- ### IDEs
+ ### IDEs and Code Editors
  - Pycharm
  - Intelij
- 
- -->
+
+-->
 
 </body>
 </html>
