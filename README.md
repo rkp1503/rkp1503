@@ -5,7 +5,7 @@
     <h2> About Me: </h2>
     <ul>
         <li> Pronouns: She/Her/Hers </li>
-        <li> Hobbies: Genshin Impact, Badminton, Casual Coding </li>
+        <li> Hobbies: Genshin Impact, Badminton, Casual Coding, Anime/Manga </li>
         <li> Social Media: https://linktr.ee/rayla_kurosaki </li>
     </ul>
   <h2> GitHub Profile Stats: </h2>
