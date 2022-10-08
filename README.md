@@ -25,16 +25,28 @@
             <img alt="Python" src="https://img.shields.io/badge/Python%20-%233572a5?style=plastic">
         </a>
         &emsp; 
-        <a href="https://www.java.com/en/" target="_blank">
-            <img alt="Java" src="https://img.shields.io/badge/Java%20-%23b07219?style=plastic">
-        </a>
-        &emsp; 
         <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
             <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB%20-%23e16737?style=plastic">
         </a>
+<!--         &emsp; 
+        <a href="https://fortran-lang.org/en/" target="_blank">
+            <img alt="Fortran" src="https://img.shields.io/badge/Fortran%20-%234d41b1?style=plastic">
+        </a> -->
+<!--         &emsp; 
+        <a href="https://julialang.org/" target="_blank">
+            <img alt="Julia" src="https://img.shields.io/badge/Julia%20-%23a270ba?style=plastic">
+        </a> -->
         &emsp; 
         <a href="https://www.wolfram.com/mathematica/" target="_blank">
             <img alt="Mathematica" src="https://img.shields.io/badge/Mathematica%20-%23dd1100?style=plastic">
+        </a>
+<!--         &emsp; 
+        <a href="http://www.ams.org/publications/what-is-tex" target="_blank">
+            <img alt="TeX" src="https://img.shields.io/badge/TeX%20-%233d6117?style=plastic">
+        </a> -->
+        &emsp; 
+        <a href="https://www.java.com/en/" target="_blank">
+            <img alt="Java" src="https://img.shields.io/badge/Java%20-%23b07219?style=plastic">
         </a>
         &emsp; 
         <a href="https://www.cprogramming.com/" target="_blank">
@@ -71,23 +83,23 @@
     <h3> Software and Tools </h3>
     <p align="center">
         &emsp; 
-        <a href="" target="_blank">
+        <a href="https://github.com/" target="_blank">
             <img alt="GitHub" src="">
         </a>
         &emsp; 
-        <a href="" target="_blank">
+        <a href="https://www.jetbrains.com/" target="_blank">
             <img alt="JetBrains" src="">
         </a>
         &emsp; 
-        <a href="" target="_blank">
+        <a href="https://www.latex-project.org/" target="_blank">
             <img alt="LaTeX" src="">
         </a>
         &emsp; 
-        <a href="" target="_blank">
+        <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-office" target="_blank">
             <img alt="Microsoft Office" src="">
         </a>
         &emsp; 
-        <a href="" target="_blank">
+        <a href="https://drive.google.com/drive/my-drive" target="_blank">
             <img alt="Google Drive" src="">
         </a>
         &emsp; 
@@ -98,17 +110,17 @@
     <h3> IDEs and Code Editors </h3>
     <p align="center">
         &emsp; 
-        <a href="" target="_blank">
+        <a href="https://www.jetbrains.com/pycharm/" target="_blank">
             <img alt="Pycharm" src="">
         </a>
         &emsp; 
-        <a href="" target="_blank">
+        <a href="https://www.jetbrains.com/idea/" target="_blank">
             <img alt="Intelij" src="">
         </a>
-        &emsp; 
-        <a href="" target="_blank">
-            <img alt="" src="">
-        </a>
+<!--         &emsp; 
+        <a href="https://code.visualstudio.com/" target="_blank">
+            <img alt="Visual Studio Code" src="">
+        </a> -->
         &emsp; 
         <a href="" target="_blank">
             <img alt="" src="">
