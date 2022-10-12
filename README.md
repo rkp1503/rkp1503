@@ -22,14 +22,14 @@
             GitHub Profile Stats:
         </h2>
         <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaylaKurosaki1503&theme=radical&cache_seconds=7200&langs_count=10&layout=compact&hide=Mathematica"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaylaKurosaki1503&theme=radical&cache_seconds=7200&langs_count=9&layout=compact&hide=Mathematica"/>
         </p>
         <ul>
             <li>
                 <b>Note 1:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. 
             </li>
             <li>
-                <b>Note 2:</b> The statistics only include code I created. It ignores all repositories that I have forked.
+                <b>Note 2:</b> The statistics only include code I created. It ignores all forked repositories and repositories with code that I have copied.
             </li>
         </ul>
         <h2>
