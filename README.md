@@ -22,7 +22,7 @@
             GitHub Profile Stats:
         </h2>
         <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaylaKurosaki1503&theme=radical&cache_seconds=7200&langs_count=9&layout=compact&hide=Mathematica"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaylaKurosaki1503&theme=radical&cache_seconds=7200&langs_count=10&layout=compact&hide=Mathematica"/>
         </p>
         <ul>
             <li>
