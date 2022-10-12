@@ -22,17 +22,14 @@
             GitHub Profile Stats:
         </h2>
         <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaylaKurosaki1503&theme=radical&cache_seconds=7200&langs_count=10&layout=compact&hide=Mathematica&exclude_repo=Phase_Plane_and_Slope_Field"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaylaKurosaki1503&theme=radical&cache_seconds=7200&langs_count=10&layout=compact&hide=Mathematica"/>
         </p>
         <ul>
             <li>
                 <b>Note 1:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. 
             </li>
             <li>
-                <b>Note 2:</b> The Wolfram Language (Mathematica) is a programming language I have used, but I decided to not show it in the profile since it would not properly display how much I used it in comparison to the other programming languages.
-            </li>
-            <li>
-                <b>Note 3:</b> The statistics only include code I created. It ignores all repositories that I have forked and repositories with code that I did not make.
+                <b>Note 2:</b> The statistics only include code I created. It ignores all repositories that I have forked.
             </li>
         </ul>
         <h2>
