@@ -11,7 +11,6 @@
   <h2> GitHub Profile Stats: </h2>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaylaKurosaki1503&theme=radical&cache_seconds=7200&langs_count=10&layout=compact&custom_title=Most%20Used%20Languages:%20Personal&hide=Roff,Shell,Makefile,FreeMarker,CSS,Mathematica&exclude_repo=Phase_Plane_and_Slope_Field"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxp8578&theme=radical&cache_seconds=7200&langs_count=10&layout=compact&custom_title=Most%20Used%20Languages:%20University&hide=Roff,Shell,Makefile,FreeMarker,CSS,Mathematica"/>
     </p>
     <ul>
         <li> <b>Note 1:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </li>
