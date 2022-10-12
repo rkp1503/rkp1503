@@ -14,8 +14,7 @@
         </p>
         <ul>
             <li> <b> Note 1: </b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </li>
-            <li> <b> Note 2: </b> The statistics only include code I created. It ignores all repositories that I have forked. </li>
-            <li> <b> Note 3: </b> The Wolfram Language (Mathematica) is a programming language I have used, but I decided to not show it in the profile since it would not properly display how much I used it in comparison to the other programming languages. </li>
+            <li> <b>Note 2:</b> The statistics only include code I created. It ignores all forked repositories and repositories with code that I have copied. </li>
         </ul>
         <h2> My Skills: </h2>
         <h3> Programming Languages </h3>
