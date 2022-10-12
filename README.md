@@ -14,8 +14,8 @@
     </p>
     <ul>
         <li> <b>Note 1:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </li>
-        <li> <b>Note 2:</b> Mathematica is a programming language I have used, but I decided to not show it in the profile since it would not properly display how much I used Mathematica in comparison to the other programming languages. </li>
-        <li> <b>Note 3:</b> The statistics only include code I created. This ignores all repositories that I have forked and repositories with code that I did not make. </li>
+        <li> <b>Note 2:</b> The Wolfram Language (Mathematica) is a programming language I have used, but I decided to not show it in the profile since it would not properly display how much I used it in comparison to the other programming languages. </li>
+        <li> <b>Note 3:</b> The statistics only include code I created. It ignores all repositories that I have forked and repositories with code that I did not make. </li>
     </ul>
     <h2> My Skills: </h2>
     <h3> Programming Languages </h3>
@@ -24,10 +24,10 @@
         <a href="https://www.python.org" target="_blank">
             <img alt="Python" src="https://img.shields.io/badge/Python%20-%233572a5?style=plastic">
         </a>
-        &emsp; 
+<!--         &emsp; 
         <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
             <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB%20-%23e16737?style=plastic">
-        </a>
+        </a> -->
 <!--         &emsp; 
         <a href="https://julialang.org/" target="_blank">
             <img alt="Julia" src="https://img.shields.io/badge/Julia%20-%23a270ba?style=plastic">
@@ -36,18 +36,14 @@
         <a href="https://fortran-lang.org/en/" target="_blank">
             <img alt="Fortran" src="https://img.shields.io/badge/Fortran%20-%234d41b1?style=plastic">
         </a> -->
-        &emsp; 
-        <a href="https://www.wolfram.com/mathematica/" target="_blank">
-            <img alt="Mathematica" src="https://img.shields.io/badge/Mathematica%20-%23dd1100?style=plastic">
-        </a>
-        &emsp; 
+<!--         &emsp; 
         <a href="https://www.java.com/en/" target="_blank">
             <img alt="Java" src="https://img.shields.io/badge/Java%20-%23b07219?style=plastic">
-        </a>
-        &emsp; 
+        </a> -->
+<!--         &emsp; 
         <a href="https://www.cprogramming.com/" target="_blank">
             <img alt="C" src="https://img.shields.io/badge/C%20-%23555555?style=plastic">
-        </a>
+        </a> -->
         &emsp; 
         <a href="" target="_blank">
             <img alt="" src="">
@@ -70,10 +66,10 @@
         <a href="https://www.jetbrains.com/pycharm/" target="_blank">
             <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm%20-%236be274?style=plastic">
         </a>
-        &emsp; 
+<!--         &emsp; 
         <a href="https://www.jetbrains.com/idea/" target="_blank">
             <img alt="InteliiJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA%20-%238670cf?style=plastic">
-        </a>
+        </a> -->
         &emsp; 
         <a href="https://code.visualstudio.com/" target="_blank">
             <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode%20-%2322a6f1?style=plastic">
@@ -116,6 +112,10 @@
         <a href="https://www.jetbrains.com/" target="_blank">
             <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains%20-%23000000?style=plastic">
         </a>
+<!--         &emsp; 
+        <a href="https://www.wolfram.com/mathematica" target="_blank">
+            <img alt="Mathematica" src="https://img.shields.io/badge/Mathematica%20-%23dd1100?style=plastic">
+        </a> -->
         &emsp; 
         <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-office" target="_blank">
             <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft%20Office%20-%23ffba08?style=plastic">
