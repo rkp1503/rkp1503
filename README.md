@@ -1,27 +1,32 @@
 <!DOCTYPE html>
 <html>
+    <header></header>
     <body>
-        <h1> Hi there! </h1>
-        <h2> About Me: </h2>
+        <h1>Hi there!</h1>
+        <h2>About Me:</h2>
         <ul>
-            <li> Pronouns: She/Her/Hers </li>
-            <li> Hobbies: Genshin Impact, Badminton, Casual Coding, Anime/Manga </li>
-            <li> Social Media: https://linktr.ee/rayla_kurosaki </li>
+            <li>Pronouns: She/Her/Hers</li>
+            <li>Hobbies: Genshin Impact, Badminton, Casual Coding, Anime/Manga</li>
+            <li>Social Media: https://linktr.ee/rayla_kurosaki</li>
         </ul>
-        <h2> GitHub Profile Stats: </h2>
+        <h2>GitHub Profile Stats:</h2>
         <p align="center">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaylaKurosaki1503&theme=radical&cache_seconds=7200&langs_count=10&layout=compact&hide=Mathematica"/>
         </p>
         <ul>
-            <li> <b> Note 1: </b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </li>
-            <li> <b>Note 2:</b> The statistics only include code I created. It ignores all forked repositories and repositories with code that I have copied. </li>
+            <li><b>Note 1:</b>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</li>
+            <li><b>Note 2:</b>The statistics only include code I created. It ignores all forked repositories and repositories with code that I have copied.</li>
         </ul>
-        <h2> My Skills: </h2>
-        <h3> Programming Languages </h3>
+        <h2>My Skills:</h2>
+        <h3>Languages I have used</h3>
         <p align="center"> 
             &emsp; 
             <a href="https://www.python.org" target="_blank">
                 <img alt="Python" src="https://img.shields.io/badge/Python%20-%233572a5?style=plastic">
+            </a>
+            &emsp; 
+            <a href="http://www.ams.org/publications/what-is-tex" target="_blank">
+                <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX%20-%23008080?style=plastic">
             </a>
             <!-- &emsp; 
             <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
@@ -48,19 +53,8 @@
                 <img alt="" src="">
             </a>
         </p>
-    <h3> Other Languages </h3>
-        <p align="center"> 
-            &emsp; 
-            <a href="http://www.ams.org/publications/what-is-tex" target="_blank">
-                <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX%20-%23008080?style=plastic">
-            </a>
-            &emsp; 
-            <a href="" target="_blank">
-                <img alt="" src="">
-            </a>
-        </p>
-        <h3> IDEs and Code Editors </h3>
-        <p align="center">
+        <h3>IDEs and Code Editors </h3>
+        <p align="center"
             &emsp; 
             <a href="https://www.jetbrains.com/pycharm/" target="_blank">
                 <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm%20-%236be274?style=plastic">
@@ -78,7 +72,7 @@
                 <img alt="" src="">
             </a>
         </p>
-    <h3> Libraries </h3>
+        <h3>Libraries</h3>
         <p align="center">
             &emsp; 
             <a href="https://numpy.org/" target="_blank">
@@ -97,11 +91,15 @@
                 <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib%20-%2365baea?style=plastic">
             </a>
             &emsp; 
+            <a href="https://pandas.pydata.org/" target="_blank">
+                <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23130654?style=plastic">
+            </a>
+            &emsp; 
             <a href="" target="_blank">
                 <img alt="" src="">
             </a>
         </p>
-    <h3> Software and Tools </h3>
+        <h3>Software and Tools</h3>
         <p align="center">
             &emsp; 
             <a href="https://github.com/" target="_blank">
