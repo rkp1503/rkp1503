@@ -19,7 +19,6 @@
         <h2>My Skills:</h2>
         <h3>Languages I have used</h3>
         <p align="center"> 
-            &emsp; 
             <a href="https://www.python.org" target="_blank">
                 <img alt="Python" src="https://img.shields.io/badge/Python%20-%233572a5?style=plastic">
             </a>
@@ -47,33 +46,31 @@
             <a href="https://www.cprogramming.com/" target="_blank">
                 <img alt="C" src="https://img.shields.io/badge/C%20-%23555555?style=plastic">
             </a> -->
-            &emsp; 
+<!--             &emsp; 
             <a href="" target="_blank">
                 <img alt="" src="">
-            </a>
+            </a> -->
         </p>
         <h3>IDEs and Code Editors </h3>
-        <p align="center"
-            &emsp; 
+        <p align="center">
             <a href="https://www.jetbrains.com/pycharm/" target="_blank">
                 <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm%20-%236be274?style=plastic">
+            </a>
+            &emsp; 
+            <a href="https://code.visualstudio.com/" target="_blank">
+                <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode%20-%2322a6f1?style=plastic">
             </a>
             <!-- &emsp; 
             <a href="https://www.jetbrains.com/idea/" target="_blank">
                 <img alt="InteliiJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA%20-%238670cf?style=plastic">
             </a> -->
-            &emsp; 
-            <a href="https://code.visualstudio.com/" target="_blank">
-                <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode%20-%2322a6f1?style=plastic">
-            </a>
-            &emsp; 
+<!--             &emsp; 
             <a href="" target="_blank">
                 <img alt="" src="">
-            </a>
+            </a> -->
         </p>
         <h3>Libraries</h3>
         <p align="center">
-            &emsp; 
             <a href="https://numpy.org/" target="_blank">
                 <img alt="Numpy" src="https://img.shields.io/badge/Numpy%20-%234dabcf?style=plastic">
             </a>
@@ -93,14 +90,13 @@
             <a href="https://pandas.pydata.org/" target="_blank">
                 <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23130654?style=plastic">
             </a>
-            &emsp; 
+<!--             &emsp; 
             <a href="" target="_blank">
                 <img alt="" src="">
-            </a>
+            </a> -->
         </p>
         <h3>Software and Tools</h3>
         <p align="center">
-            &emsp; 
             <a href="https://github.com/" target="_blank">
                 <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23272b33?style=plastic">
             </a>
@@ -120,10 +116,10 @@
             <a href="https://drive.google.com/drive" target="_blank">
                 <img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive%20-%2334a853?style=plastic">
             </a>
-            &emsp; 
+<!--             &emsp; 
             <a href="" target="_blank">
                 <img alt="" src="">
-            </a>
+            </a> -->
         </p>
     </body>
 </html>
