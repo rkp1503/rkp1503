@@ -14,8 +14,7 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaylaKurosaki1503&theme=radical&cache_seconds=7200&langs_count=10&layout=compact&hide=Mathematica"/>
         </p>
         <ul>
-            <li><b>Note 1: </b>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</li>
-            <li><b>Note 2: </b>The statistics only include code I created. It ignores all forked repositories and repositories with code that I have copied.</li>
+            <li><b>Note: </b>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</li>
         </ul>
         <h2>My Skills:</h2>
         <h3>Languages I have used</h3>
