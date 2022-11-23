@@ -11,10 +11,11 @@
         </ul>
         <h2>GitHub Profile Stats:</h2>
         <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaylaKurosaki1503&theme=radical&cache_seconds=7200&langs_count=10&layout=compact&hide=Mathematica"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaylaKurosaki1503&theme=radical&cache_seconds=7200&langs_count=10&layout=compact&hide=Jupyter%20Notebook"/>
         </p>
         <ul>
-            <li><b>Note: </b>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</li>
+            <li><b>Note 1: </b>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</li>
+            <li><b>Note 2: </b>I have chosen to hide Jupyter Notebook since I do not consider it as a language but a code editor.</li>
         </ul>
         <h2>My Skills:</h2>
         <h3>Languages I have used</h3>
@@ -55,6 +56,10 @@
         <p align="center">
             <a href="https://www.jetbrains.com/pycharm/" target="_blank">
                 <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm%20-%236be274?style=plastic">
+            </a>
+            &emsp; 
+            <a href="https://jupyter.org/" target="_blank">
+                <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20Notebook%20-%23da5b0b?style=plastic">
             </a>
             &emsp; 
             <a href="https://code.visualstudio.com/" target="_blank">
