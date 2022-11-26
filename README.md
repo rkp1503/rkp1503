@@ -18,7 +18,7 @@
             <li><b>Note 2: </b>The following are entries I have chosen to hide from the statistics with a given explanation:
             <ul>
                 <li><b>Julia: </b>More specifically, Pluto notebooks. This is because pluto notebooks are large so it would inflate how often I would use Julia. All Julia files that are not notebook files are considered in the statistics.</li>
-                <li><b>Jupyter Notebook: </b>In addition to being a notebook file, it is not a programming language. Furthermore, you can write a Jupyter notebook in different langauges so it will be even harder to distingush how much Jupyter files are written in Python, Julia, etc.</li>
+                <li><b>Jupyter Notebook: </b>In addition to being a notebook file, it is not a programming language. Furthermore, Jupyter notebooks can be written in different langauges so it will be even harder to distingush how much Jupyter files are written in Python, Julia, etc.</li>
             </ul>
             </li>
         </ul>
