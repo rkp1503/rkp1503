@@ -11,15 +11,24 @@
         </ul>
         <h2>GitHub Profile Stats:</h2>
         <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaylaKurosaki1503&theme=radical&cache_seconds=7200&langs_count=10&layout=compact&hide=Jupyter%20Notebook"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaylaKurosaki1503&theme=radical&cache_seconds=7200&exclude_repo=Compartmental_Models_in_Epidemiology&langs_count=10&layout=compact&hide=Jupyter%20Notebook"/>
         </p>
         <ul>
             <li><b>Note 1: </b>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</li>
-            <li><b>Note 2: </b>I have chosen to hide Jupyter Notebook since I do not consider it as a language but a code editor.</li>
+            <li><b>Note 2: </b>The following are entries I have chosen to hide from the statistics with a given explanation:
+            <ul>
+                <li><b>Julia: </b>More specifically, Pluto notebooks. This is because pluto notebooks are large so it would inflate how often I would use Julia. All Julia files that are not notebook files are considered in the statistics.</li>
+                <li><b>Jupyter Notebook: </b>In addition to being a notebook file, it is not a programming language. Furthermore, you can write a Jupyter notebook in different langauges so it will be even harder to distingush how much Jupyter files are written in Python, Julia, etc.</li>
+            </ul>
+            </li>
         </ul>
         <h2>My Skills:</h2>
         <h3>Languages I have used</h3>
         <p align="center"> 
+            <a href="https://julialang.org/" target="_blank">
+                <img alt="Julia" src="https://img.shields.io/badge/Julia%20-%23a270ba?style=plastic">
+            </a>
+            &emsp; 
             <a href="https://www.python.org" target="_blank">
                 <img alt="Python" src="https://img.shields.io/badge/Python%20-%233572a5?style=plastic">
             </a>
@@ -27,26 +36,6 @@
             <a href="http://www.ams.org/publications/what-is-tex" target="_blank">
                 <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX%20-%23008080?style=plastic">
             </a>
-            <!-- &emsp; 
-            <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-                <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB%20-%23e16737?style=plastic">
-            </a> -->
-            <!-- &emsp; 
-            <a href="https://julialang.org/" target="_blank">
-                <img alt="Julia" src="https://img.shields.io/badge/Julia%20-%23a270ba?style=plastic">
-            </a> -->
-            <!-- &emsp; 
-            <a href="https://fortran-lang.org/en/" target="_blank">
-                <img alt="Fortran" src="https://img.shields.io/badge/Fortran%20-%234d41b1?style=plastic">
-            </a> -->
-            <!-- &emsp; 
-            <a href="https://www.java.com/en/" target="_blank">
-                <img alt="Java" src="https://img.shields.io/badge/Java%20-%23b07219?style=plastic">
-            </a> -->
-            <!-- &emsp; 
-            <a href="https://www.cprogramming.com/" target="_blank">
-                <img alt="C" src="https://img.shields.io/badge/C%20-%23555555?style=plastic">
-            </a> -->
 <!--             &emsp; 
             <a href="" target="_blank">
                 <img alt="" src="">
@@ -54,6 +43,10 @@
         </p>
         <h3>IDEs and Code Editors </h3>
         <p align="center">
+            <a href="https://github.com/fonsp/Pluto.jl/" target="_blank">
+                <img alt="Pluto" src="https://img.shields.io/badge/Pluto%20-%23a270ba?style=plastic">
+            </a>
+            &emsp; 
             <a href="https://www.jetbrains.com/pycharm/" target="_blank">
                 <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm%20-%236be274?style=plastic">
             </a>
@@ -108,6 +101,10 @@
             &emsp; 
             <a href="https://www.jetbrains.com/" target="_blank">
                 <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains%20-%23000000?style=plastic">
+            </a>
+            &emsp; 
+            <a href="https://www.overleaf.com/" target="_blank">
+                <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf%20-%138a07?style=plastic">
             </a>
             <!-- &emsp; 
             <a href="https://www.wolfram.com/mathematica" target="_blank">
