@@ -58,6 +58,10 @@
             <a href="https://code.visualstudio.com/" target="_blank">
                 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode%20-%2322a6f1?style=plastic">
             </a>
+            &emsp; 
+            <a href="https://www.overleaf.com/" target="_blank">
+                <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf%20-%138a07?style=plastic">
+            </a>
             <!-- &emsp; 
             <a href="https://www.jetbrains.com/idea/" target="_blank">
                 <img alt="InteliiJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA%20-%238670cf?style=plastic">
@@ -101,10 +105,6 @@
             &emsp; 
             <a href="https://www.jetbrains.com/" target="_blank">
                 <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains%20-%23000000?style=plastic">
-            </a>
-            &emsp; 
-            <a href="https://www.overleaf.com/" target="_blank">
-                <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf%20-%138a07?style=plastic">
             </a>
             <!-- &emsp; 
             <a href="https://www.wolfram.com/mathematica" target="_blank">
