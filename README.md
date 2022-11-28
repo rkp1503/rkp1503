@@ -15,10 +15,11 @@
         </p>
         <ul>
             <li><b>Note 1: </b>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</li>
-            <li><b>Note 2: </b>The following are entries I have chosen to hide from the statistics with a given explanation:
+            <li><b>Note 2: </b>I have chosen to hide notebook files because they are large in comparison to standard scripting files. The notebook files that are ignored in the statistics above are the following but not limited to:
             <ul>
-                <li><b>Julia: </b>More specifically, Pluto notebooks. This is because pluto notebooks are large so it would inflate how often I would use Julia. All Julia files that are not notebook files are considered in the statistics.</li>
-                <li><b>Jupyter Notebook: </b>In addition to being a notebook file, it is not a programming language. Furthermore, Jupyter notebooks can be written in different langauges so it will be even harder to distingush how much Jupyter files are written in Python, Julia, etc.</li>
+                <li>Pluto Notebooks (Julia)</li>
+                <li>Jupyter Notebooks (Julia/Python/R)</li>
+                <li>Mathematica Notebooks (Wolfram Language)</li>
             </ul>
             </li>
         </ul>
