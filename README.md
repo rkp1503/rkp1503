@@ -11,7 +11,7 @@
         </ul>
         <h2>GitHub Profile Stats:</h2>
         <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaylaKurosaki1503&theme=radical&cache_seconds=7200&exclude_repo=Compartmental_Models_in_Epidemiology&langs_count=10&layout=compact&hide=Jupyter%20Notebook"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaylaKurosaki1503&theme=radical&cache_seconds=7200&exclude_repo=Mathematical_Modeling&langs_count=10&layout=compact&hide=Jupyter%20Notebook"/>
         </p>
         <ul>
             <li><b>Note 1: </b>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</li>
