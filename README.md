@@ -52,16 +52,16 @@
                 <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm%20-%236be274?style=plastic">
             </a>
             &emsp; 
-            <a href="https://jupyter.org/" target="_blank">
-                <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20Notebook%20-%23da5b0b?style=plastic">
-            </a>
-            &emsp; 
             <a href="https://code.visualstudio.com/" target="_blank">
                 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode%20-%2322a6f1?style=plastic">
             </a>
             &emsp; 
             <a href="https://www.overleaf.com/" target="_blank">
                 <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf%20-%138a07?style=plastic">
+            </a>
+            &emsp; 
+            <a href="https://jupyter.org/" target="_blank">
+                <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20Notebook%20-%23da5b0b?style=plastic">
             </a>
             <!-- &emsp; 
             <a href="https://www.jetbrains.com/idea/" target="_blank">
