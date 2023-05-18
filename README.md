@@ -14,7 +14,7 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaylaKurosaki1503&theme=radical&cache_seconds=7200&exclude_repo=Mathematical_Modeling&langs_count=10&layout=compact&hide=Jupyter%20Notebook"/>
         </p>
         <ul>
-            <li><b>Note 1: </b>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</li>
+            <li><b>Note 1: </b>Most used languages is only a metric of the languages my public source code consists of and doesn't reflect experience or skill level.</li>
             <li><b>Note 2: </b>I have chosen to hide notebook files because they are large in comparison to standard scripting files. The notebook files that are ignored in the statistics above are the following but not limited to:
             <ul>
                 <li>Pluto Notebooks (Julia)</li>
