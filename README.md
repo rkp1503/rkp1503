@@ -58,6 +58,20 @@
                 <img alt="" src="">
             </a> -->
         </p>
+        <h3>Languages I am interested in learning</h3>
+        <p align="center"> 
+            <a href="https://fortran-lang.org/en/" target="_blank">
+                <img alt="Fortran" src="https://img.shields.io/badge/Fortran%20-%234d41b1?style=plastic&logo=Fortran&logoColor=white">
+            </a>
+            &emsp; 
+            <a href="https://www.r-project.org/" target="_blank">
+                <img alt="R" src="https://img.shields.io/badge/R%20-%23198ce7?style=plastic&logo=R&logoColor=white">
+            </a>
+<!--             &emsp; 
+            <a href="" target="_blank">
+                <img alt="" src="">
+            </a> -->
+        </p>
         <h3>IDEs and Code Editors </h3>
         <p align="center">
             <a href="https://github.com/fonsp/Pluto.jl/" target="_blank">
