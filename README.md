@@ -30,11 +30,11 @@
                 <img alt="Julia" src="https://img.shields.io/badge/Julia%20-%23a270ba?style=plastic&logo=Julia&logoColor=white">
             </a>
             &emsp; 
-            <a href="https://www.python.org" target="_blank">
+            <a href="https://www.python.org/" target="_blank">
                 <img alt="Python" src="https://img.shields.io/badge/Python%20-%233572a5?style=plastic&logo=Python&logoColor=white">
             </a>
             &emsp; 
-            <a href="http://www.ams.org/publications/what-is-tex" target="_blank">
+            <a href="http://www.ams.org/publications/what-is-tex/" target="_blank">
                 <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX%20-%23008080?style=plastic&logo=LaTeX&logoColor=white">
             </a>
 <!--             &emsp; 
@@ -74,7 +74,7 @@
         </p>
         <h3>IDEs and Code Editors </h3>
         <p align="center">
-            <a href="https://github.com/fonsp/Pluto.jl/" target="_blank">
+            <a href="https://plutojl.org/" target="_blank">
                 <img alt="Pluto" src="https://img.shields.io/badge/Pluto%20-%23a270ba?style=plastic&logo=Julia&logoColor=white">
             </a>
             &emsp; 
