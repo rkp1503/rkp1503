@@ -11,18 +11,8 @@
         </ul>
         <h2>GitHub Profile Stats:</h2>
         <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkp1503&theme=radical&cache_seconds=7200&langs_count=10&size_weight=0.5&count_weight=0.5&layout=compact&hide=Jupyter%20Notebook"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkp1503&theme=radical&cache_seconds=7200&langs_count=10&size_weight=0.5&count_weight=0.5&layout=compact">
         </p>
-        <ul>
-            <li><b>Note 1: </b>Most used languages is only a metric of the languages my public source code consists of and doesn't reflect experience or skill level.</li>
-            <li><b>Note 2: </b>I have chosen to hide specific notebook files. The notebook files that are ignored in the statistics above are the following but not limited to:
-            <ul>
-                <li>Jupyter Notebooks <code>.ipynb</code> for the langauges Julia, Python, and R</li>
-                <li>Mathematica Notebooks <code>.nb</code> for the Wolfram Language</li>
-            </ul>
-                While I would like to ignore Pluto Notebooks for the Julia language, there is no easy way to tell the difference between a notebook file and a standard script since both types of files have the same extension <code>.jl</code>. Because of this, I have chosen to not hide Julia files.
-            </li>
-        </ul>
         <h2>My Skills:</h2>
         <h3>Languages I have used</h3>
         <p align="center"> 
