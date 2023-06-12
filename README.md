@@ -11,8 +11,9 @@
         </ul>
         <h2>GitHub Profile Stats:</h2>
         <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkp1503&theme=radical&cache_seconds=7200&langs_count=10&size_weight=0.5&count_weight=0.5&layout=compact">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkp1503&show_icons=true&hide_border=true&title_color=BF00FF&text_color=BF00FF&icon_color=00FFFF&&bg_color=FFDDF4&langs_count=10&size_weight=0.5&count_weight=0.5">
         </p>
+<!--         
         <h2>My Skills:</h2>
         <h3>Languages I have used</h3>
         <p align="center"> 
@@ -27,7 +28,7 @@
             <a href="http://www.ams.org/publications/what-is-tex/" target="_blank">
                 <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX%20-%23008080?style=plastic&logo=LaTeX&logoColor=white">
             </a>
-<!--             &emsp; 
+            &emsp; 
             <a href="https://fortran-lang.org/en/" target="_blank">
                 <img alt="Fortran" src="https://img.shields.io/badge/Fortran%20-%234d41b1?style=plastic&logo=Fortran&logoColor=white">
             </a>
@@ -42,11 +43,11 @@
             &emsp; 
             <a href="https://www.scala-lang.org/" target="_blank">
                 <img alt="Scala" src="https://img.shields.io/badge/Scala%20-%23c22d40?style=plastic&logo=Scala&logoColor=white">
-            </a> -->
-<!--             &emsp; 
+            </a>
+            &emsp; 
             <a href="" target="_blank">
                 <img alt="" src="">
-            </a> -->
+            </a>
         </p>
         <h3>Languages I am interested in learning</h3>
         <p align="center"> 
@@ -57,10 +58,10 @@
             <a href="https://www.r-project.org/" target="_blank">
                 <img alt="R" src="https://img.shields.io/badge/R%20-%23198ce7?style=plastic&logo=R&logoColor=white">
             </a>
-<!--             &emsp; 
+            &emsp; 
             <a href="" target="_blank">
                 <img alt="" src="">
-            </a> -->
+            </a>
         </p>
         <h3>IDEs and Code Editors </h3>
         <p align="center">
@@ -83,10 +84,10 @@
             <a href="https://jupyter.org/" target="_blank">
                 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20Notebook%20-%23da5b0b?style=plastic">
             </a>
-<!--             &emsp; 
+            &emsp; 
             <a href="" target="_blank">
                 <img alt="" src="">
-            </a> -->
+            </a>
         </p>
         <h3>Libraries</h3>
         <p align="center">
@@ -109,10 +110,10 @@
             <a href="https://pandas.pydata.org/" target="_blank">
                 <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23130654?style=plastic&logo=Python&logoColor=white">
             </a>
-<!--             &emsp; 
+            &emsp; 
             <a href="" target="_blank">
                 <img alt="" src="">
-            </a> -->
+            </a>
         </p>
         <h3>Software and Tools</h3>
         <p align="center">
@@ -131,10 +132,11 @@
             <a href="https://drive.google.com/drive" target="_blank">
                 <img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive%20-%2334a853?style=plastic">
             </a>
-<!--             &emsp; 
+            &emsp; 
             <a href="" target="_blank">
                 <img alt="" src="">
-            </a> -->
+            </a>
         </p>
+ -->
     </body>
 </html>
