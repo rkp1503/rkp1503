@@ -8,7 +8,7 @@
 - Programming Projects:
     - I like to work on projects in the STEM (Science, Technology, Engineering and Mathematics) field that would enable me to use my programming skills. For these projects, I aim to use Julia as my go to language to deal with the modeling and numerical computations with Python being my backup language to fall back on for cases such as exporting figures to `.eps` format, symbolic computation, or if I plan to take the OOP (object-oriented programming) approach. For these projects, I also use the markup language LaTeX if I am writing a report/paper to supplement the work I did.
     - For non-STEM related projects, it kinda depends on if I am interested in the topic in hand and if I have the skills to finish the project. All of these projects will be done in Python but I am considering switching to a different language since Python is slow.
-- Programming History:
+- Languages History:
     - Aside from Julia, Python, and LaTeX for STEM projects, I have also used Mathematica and MATLAB. I don't use them anymore since not only are they paid products, but Julia is faster. There is no better alternative than LaTeX when it comes to writing papers/reports but I have used and are comfortable using Microsoft Office products (word, excel, etc) and Google products (docs, sheets, etc).
     - Aside from Python for non-STEM projects, I have used Java and C. The last time I used Java and C were Spring of 2019-2020 and Summer of 2018-2019 respectively. I can try to pick up those langauges again but from what I remembered those languages wer difficult to program in since the syntax wasn't as friendly as Python.
 - Hobbies (Non programming related):
