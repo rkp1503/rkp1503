@@ -20,7 +20,7 @@
                 </li>
                 <li>Programming Projects:
                     <ul>
-                        <li>I like to work on projects in the STEM (Science, Technology, Engineering and Mathematics) field that would enable me to use my programming skills. For these projects, I aim to use Julia as my go to language to deal with the modeling and numerical computations with Python being my backup language to fall back on for cases such as exporting figures to `.eps` format, symbolic computation, or if I plan to take the OOP (object-oriented programming) approach. For these projects, I also use the markup language LaTeX if I am writing a report/paper to supplement the work I did.</li>
+                        <li>I like to work on projects in the STEM (Science, Technology, Engineering and Mathematics) field that would enable me to use my programming skills. For these projects, I aim to use Julia as my go to language to deal with the modeling and numerical computations with Python being my backup language to fall back on for cases such as exporting figures to <code>.eps</code> format, symbolic computation, or if I plan to take the OOP (object-oriented programming) approach. For these projects, I also use the markup language LaTeX if I am writing a report/paper to supplement the work I did.</li>
                         <li>For non-STEM related projects, it kinda depends on if I am interested in the topic in hand and if I have the skills to finish the project. All of these projects will be done in Python but I am considering switching to a different general purpose language since Python is slow.</li>
                     </ul>
                 </li>
