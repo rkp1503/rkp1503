@@ -79,6 +79,7 @@
         <div>
             <h2>Langauges I am consider learning</h2>
             <p align="left">
+                <a href="https://isocpp.org/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++-%23f34b7d?style=for-the-badge&logo=C%2B%2B&logoColor=white"></a>
                 <a href="https://fortran-lang.org/en/" target="_blank"><img alt="Fortran" src="https://img.shields.io/badge/Fortran-%234d41b1?style=for-the-badge&logo=Fortran&logoColor=white"></a>
                 <a href="https://www.r-project.org/" target="_blank"><img alt="R" src="https://img.shields.io/badge/R-%23198ce7?style=for-the-badge&logo=R&logoColor=white"></a>
                 <!-- <a href="https://www.rust-lang.org/" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/Rust-%23dea584?style=for-the-badge&logo=Rust&logoColor=black"></a> -->
