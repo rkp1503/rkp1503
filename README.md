@@ -12,12 +12,12 @@
             <h2>About me</h2>
             <ul>
                 <li>Pronouns: She/Her</li>
-                <li>Education:
+<!--                 <li>Education:
                     <ul>
                         <li>Master of Science in Applied and Computational Mathematics at Rochester Institute of Technology (2020-2023)</li>
                         <li>Bachelor of Science in Computational Mathematics at Rochester Institute of Technology (2017-2023)</li>
                     </ul>
-                </li>
+                </li> -->
                 <li>Programming Projects:
                     <ul>
                         <li>I like to work on projects in the STEM (Science, Technology, Engineering and Mathematics) field that would enable me to use my programming skills. For these projects, I aim to use Julia as my go to language to deal with the modeling and numerical computations with Python being my backup language to fall back on for cases such as exporting figures to <code>.eps</code> format, symbolic computation, or if I plan to take the OOP (object-oriented programming) approach. For these projects, I also use the markup language LaTeX if I am writing a report/paper to supplement the work I did.</li>
@@ -101,9 +101,9 @@
             <h2>Contacts and Social Media</h2>
             <p align="left">
                 <a href="https://github.com/rkp1503/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%23272b33?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-                <a href="https://www.linkedin.com/in/rkp1503/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+<!--                 <a href="https://www.linkedin.com/in/rkp1503/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
                 <a href="https://www.instagram.com/rayla_kurosaki/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-                <a href="https://twitter.com/rayla_kurosaki" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+                <a href="https://twitter.com/rayla_kurosaki" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a> -->
                 <!-- <a href="" target="_blank"><img alt="" src=""></a> -->
             </p>
         </div>
